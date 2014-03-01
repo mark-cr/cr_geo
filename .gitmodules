@@ -1,0 +1,4 @@
+[submodule "leaflet"]
+	path = themes/third_party/cr_geo/libraries/leaflet
+	url = https://github.com/Leaflet/Leaflet.git
+	branch = stable
